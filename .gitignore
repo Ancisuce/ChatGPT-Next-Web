@@ -42,3 +42,4 @@ public/prompts.json
 .idea
 .history
 dist.zip
+.dist
